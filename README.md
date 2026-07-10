@@ -1,5 +1,7 @@
 # Clippy
 
+![Clippy](Preview.png)
+
 A cheerful animated paperclip pet inspired by Microsoft’s retired Office Assistant.
 
 Clippy is back as a modern Codex companion, with expressive eyes, flexible paperclip movement, directional gazes, and a complete set of helpful reactions.
