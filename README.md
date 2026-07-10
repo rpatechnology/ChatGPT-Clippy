@@ -1,8 +1,8 @@
-# Clippy
+# Clippy Lives on as a ChatGPT Pet
 
 ![Clippy](Preview.png)
 
-A cheerful animated paperclip pet inspired by Microsoft’s retired Office Assistant.
+The cheerful animated Clippy, inspired by Microsoft’s retired Office Assistant, lives on as a modern ChatGPT Pet.
 
 Clippy is back as a modern Codex companion, with expressive eyes, flexible paperclip movement, directional gazes, and a complete set of helpful reactions.
 
